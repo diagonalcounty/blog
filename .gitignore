@@ -1,0 +1,15 @@
+# Obsidian device-specific / volatile state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# macOS system files
+.DS_Store
+Thumbs.db
+
+# Obsidian trash
+.trash/
+
+# Common large/published assets (adjust as needed)
+*.mp4
+*.mov
