@@ -1,18 +1,9 @@
-# macOS (recursive)
+# Ignore the entire .obsidian/ folder (device-specific settings & plugins)
+.obsidian/
+
+# macOS
 **/.DS_Store
 Thumbs.db
 
-# Obsidian device-specific / volatile
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
-
-# Trash
+# Obsidian trash
 .trash/
-
-# Plugin data (can be large or contain sensitive info)
-.obsidian/plugins/*/data.json
-
-# Large published assets
-*.mp4
-*.mov
