@@ -3,8 +3,6 @@ title: The Chicken-to-Velociraptor Reverse-Engineering Handbook
 date: 2026-05-23
 ---
 
----
-
 ![chicken-velociraptor.jpeg](chicken-velociraptor.jpeg)
 
 # The Chicken-to-Velociraptor Reverse-Engineering Handbook: A Hypothetical Yet Grounded Guide to Biologically Reverting Modern Poultry to Their Theropod Ancestors
