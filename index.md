@@ -6,6 +6,6 @@ title: Home
 
 
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
