@@ -1,5 +1,5 @@
 ---
-title: 2026-05-23-welcome-to-my-blog
+title: Welcome to my Blog
 date: 2026-05-23
 ---
 
