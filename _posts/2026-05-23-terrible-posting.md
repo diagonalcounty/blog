@@ -1,5 +1,5 @@
 ---
-title: terrible-posting
+title: this is a terrible posting
 date: 2026-05-23
 ---
 
