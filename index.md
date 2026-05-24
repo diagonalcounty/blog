@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Welcome to Diagonal County
+# Welcome to Diagonal County The Blog
 
 This is my personal writing space. Explore the latest posts below.
 
