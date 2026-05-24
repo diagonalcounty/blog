@@ -4,6 +4,7 @@ date: 2026-05-23
 ---
 **Destro’s Forged Abs: How the Cobra Weapons Master Maintains Elite Conditioning While Ruling the Shadows**
 
+![[2026-05-23-destro-abs.jpg]]
 In this exclusive interview, Destro opens up about the ruthless training regimen that keeps his iconic 1980s cartoon physique battle-hardened — all while masterminding global chaos.
 
 ---
