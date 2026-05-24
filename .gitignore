@@ -1,9 +1,43 @@
-# Ignore the entire .obsidian/ folder (device-specific settings & plugins)
+# ============================================
+# Hardened .gitignore for iCloud/Dropbox + Git + Obsidian
+# Reduces risk of index corruption and sync conflicts
+# ============================================
+
+# Ignore the entire .obsidian/ folder
+# (device-specific settings, plugins, cache, workspace files)
+# This is the single most effective way to prevent iCloud corruption
 .obsidian/
 
-# macOS
+# macOS / Apple files (frequent source of sync conflicts)
 **/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+**/.Spotlight-V100
+**/.Trashes
+**/.fseventsd
+**/.TemporaryItems
+
+# Windows
 Thumbs.db
+Desktop.ini
+
+# Linux / editor temps
+*~
+**/*.swp
+**/*.swo
 
 # Obsidian trash
 .trash/
+
+# Git internal lock files (prevents "index locked" errors during sync)
+.git/index.lock
+.git/*.lock
+
+# Temporary and cache files
+**/*.tmp
+**/*.temp
+**/*.bak
+**/*.log
+
+# Optional but recommended for sensitive/large plugin data
+# .obsidian/plugins/*/data.json
