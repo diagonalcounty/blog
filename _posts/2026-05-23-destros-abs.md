@@ -1,10 +1,10 @@
 ---
-title: "Destro’s Steel-Core Abs: The G.I. Joe Villain’s Secrets to Maintaining a Killer Physique While Plotting World Domination"
+title: Destro’s Steel-Core Abs
 date: 2026-05-23
 ---
 **Destro’s Forged Abs: How the Cobra Weapons Master Maintains Elite Conditioning While Ruling the Shadows**
 
-![[2026-05-23-destro-abs.jpg]]
+![2026-05-23-destro-abs.jpg](./assets/2026-05-23-destro-abs.jpg)
 In this exclusive interview, Destro opens up about the ruthless training regimen that keeps his iconic 1980s cartoon physique battle-hardened — all while masterminding global chaos.
 
 ---
@@ -32,7 +32,7 @@ In this exclusive interview, Destro opens up about the ruthless training regimen
 ---
 
 Destro proves that true power — physical or otherwise — is built one brutal rep at a time. Now drop for twenty… for glory!
-```
+
 ---
 
 *This work by [@diagonalcounty](https://github.com/diagonalcounty) is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
