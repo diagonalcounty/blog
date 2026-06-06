@@ -90,17 +90,17 @@ This exercise is not a prediction but an exploration of the full dynamic range o
 
 **References** (selected; full citations available in supplementary modeling notes)
 
-- Belanger, B. K., et al. (2022). Modelling climate constraints on the formation of pluvial Lake Bonneville. *Journal of Quaternary Science*.
-- Benson, L. V., et al. (2011). The rise and fall of Lake Bonneville. *Quaternary International*.
-- Bigalke, S., et al. (2025). Explaining the 2022 record low Great Salt Lake volume. *Geophysical Research Letters*.
-- Gu, H., et al. (2024). The shrinking Great Salt Lake may exacerbate droughts. *Journal of Hydrometeorology*.
-- Haller, C. (2020). How big was paleo Lake Bonneville? [Blog post with DEM analysis].
-- Ibarra, D. E., et al. (2018). Lake area constraints on past hydroclimate. *EarthArXiv*.
-- Mering, J., et al. (2026). Quantifying the impacts of rainfall and evaporation on Lake Bonneville. *Science Advances*.
-- Mohammed, I. N., & Tarboton, D. G. (2012). An examination of the sensitivity of the Great Salt Lake to changes in inputs. *Water Resources Research*.
-- Rutz, J. J., et al. (2014). Climatological characteristics of atmospheric rivers. *Monthly Weather Review*.
-- Thompson, R. S., et al. (2016). Late quaternary changes in lakes, vegetation, and climate. *USGS Professional Paper*.
-- Wurtsbaugh, W. A., et al. (2017). Decline of the world’s saline lakes. *Nature Geoscience*.
+- Belanger, B. K., Amidon, W. H., Laabs, B. J. C., Munroe, J. S., & Quirk, B. J. (2022). Modelling climate constraints on the formation of pluvial Lake Bonneville in the Great Basin, United States. *Journal of Quaternary Science*. https://onlinelibrary.wiley.com/doi/10.1002/jqs.3394
+- Benson, L. V., Lund, S. P., Smoot, J. P., Rhode, D. E., Spencer, R. J., Verosub, K. L., ... & Rye, R. O. (2011). The rise and fall of Lake Bonneville between 45 and 10.5 ka. *Quaternary International*, 235(1-2), 57-69. https://doi.org/10.1016/j.quaint.2010.12.014
+- Bigalke, S., Loikith, P. C., & Siler, N. (2025). Explaining the 2022 record low Great Salt Lake volume. *Geophysical Research Letters*, 52(2), e2024GL112154. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL112154
+- Gu, H., Zhang, W., & Gillies, R. (2024). The shrinking Great Salt Lake may exacerbate droughts by reducing local precipitation: A case study. *Journal of Hydrometeorology*, 25(7), 1099–1109. https://journals.ametsoc.org/view/journals/hydr/25/7/JHM-D-23-0189.1.xml
+- Haller, C. (2020). How big was paleo Lake Bonneville? [Blog post with DEM analysis]. https://www.christianhaller.me/blog/projectblog/2020-05-06-Bonneville/
+- Ibarra, D. E., Egger, A. E., Weaver, K. L., Harris, C. R., & Maher, K. (2018). Lake area constraints on past hydroclimate in the western United States: Application to Pleistocene Lake Bonneville. *EarthArXiv*. https://eartharxiv.org/repository/object/1188/download/2692/
+- Mering, J., Arnold, A. J., Santi, L., Lee, H.-I., Lerback, J., Ajoku, O., ... & Ibarra, D. E. (2026). Quantifying the impacts of rainfall and evaporation on Lake Bonneville. *Science Advances*, 12(1), eadw4951. https://www.science.org/doi/10.1126/sciadv.adw4951
+- Mohammed, I. N., & Tarboton, D. G. (2012). An examination of the sensitivity of the Great Salt Lake to changes in inputs. *Water Resources Research*, 48(11). https://doi.org/10.1029/2012WR011908
+- Rutz, J. J., Steenburgh, W. J., & Ralph, F. M. (2014). Climatological characteristics of atmospheric rivers and their inland penetration over the western United States. *Monthly Weather Review*, 142(2), 905–921. https://journals.ametsoc.org/view/journals/mwre/142/2/mwr-d-13-00168.1.xml
+- Thompson, R. S., Oviatt, C. G., Honke, J. S., & McGeehin, J. P. (2016). Late quaternary changes in lakes, vegetation, and climate in the Bonneville basin, USA. *USGS Professional Paper* 2016-5034. https://pubs.usgs.gov/pp/2016/5034/
+- Wurtsbaugh, W. A., Miller, C., Null, S. E., DeRose, R. J., Wilcock, P., Hahnenberger, M., ... & Moore, J. (2017). Decline of the world’s saline lakes. *Nature Geoscience*, 10(11), 816–821. https://www.nature.com/articles/ngeo3052
 
 ---
 
