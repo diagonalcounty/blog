@@ -1,11 +1,7 @@
 ---
 title: "Imagining the Basin Full: A Thought Experiment from a Salt Lake High-Rise"
 date: 2026-06-06
----
-
----
-title: "Imagining the Basin Full: A Thought Experiment from a Salt Lake High-Rise"
-date: 2026-06-06
+excerpt: "A multi-century thought experiment: what if the Great Salt Lake basin got Arkansas-level rain—and the lake rose toward the old Provo shoreline?"
 ---
 
 **Abstract**

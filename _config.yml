@@ -3,5 +3,14 @@ description: Thoughts on history, ideas, and life.
 url: "https://diagonalcounty.github.io"
 baseurl: ""
 
-theme: jekyll-theme-primer
+theme: minima
 show_excerpts: true
+
+minima:
+  social_links:
+    - platform: github
+      user_url: "https://github.com/diagonalcounty"
+
+header_pages: []
+
+author: diagonalcounty

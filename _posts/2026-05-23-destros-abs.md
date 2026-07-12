@@ -1,6 +1,7 @@
 ---
 title: Destro’s Steel-Core Abs
 date: 2026-05-23
+excerpt: "Destro on core training, discipline, and staying battle-ready while running a global empire."
 ---
 **Destro’s Forged Abs: How the Cobra Weapons Master Maintains Elite Conditioning While Ruling from the Darkest Shadows**
 

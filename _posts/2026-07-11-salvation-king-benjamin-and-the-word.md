@@ -1,6 +1,7 @@
 ---
 title: "Salvation: King Benjamin, Covenant, and the Word"
 date: 2026-07-11
+excerpt: "What “salvation” means in English, in comparative religion, and—most carefully—in King Benjamin’s Mosiah 4:8: covenant, retention, and care for the poor."
 ---
 
 Research note on the word *salvation*—English history, comparative frameworks, and especially King Benjamin’s usage in Mosiah 4:8 (covenant, retention, charity). Compiled from multi-source notes; interpretive claims about “ancient” parallels are reconstructive.
