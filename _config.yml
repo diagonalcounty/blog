@@ -14,3 +14,9 @@ minima:
 header_pages: []
 
 author: diagonalcounty
+
+exclude:
+  - POST_TEMPLATE.txt
+  - _templates
+  - README.md
+  - LICENSE
