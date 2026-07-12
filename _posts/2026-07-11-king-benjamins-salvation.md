@@ -212,41 +212,50 @@ When translators leave Western European defaults, word choice highlights differe
 
 ## Comparison with the Bible Dictionary and Gospel Topics
 
-Authoritative teaching on *salvation* for members of The Church of Jesus Christ of Latter-day Saints is set out in the [Bible Dictionary](https://www.churchofjesuschrist.org/study/scriptures/bd/salvation) entry “Salvation” and the [Gospel Topics](https://www.churchofjesuschrist.org/study/manual/gospel-topics/salvation) overview “Salvation,” with related treatments of the Atonement of Jesus Christ, the plan of salvation, and grace. Those sources govern doctrine. The linguistic and Mosiah-focused notes above are secondary: they may illuminate scriptural language but do not redefine Church teaching.
+Authoritative teaching on *salvation* for members of The Church of Jesus Christ of Latter-day Saints is set out in the [Bible Dictionary](https://www.churchofjesuschrist.org/study/scriptures/bd/salvation) entry “Salvation” and the [Gospel Topics](https://www.churchofjesuschrist.org/study/manual/gospel-topics/salvation) overview “Salvation,” with related treatments of the Atonement of Jesus Christ, the plan of salvation, and grace. Those sources govern doctrine. The linguistic and Mosiah-focused material above is secondary: it may illuminate scriptural language but does not redefine Church teaching.
+
+**How the comparison is organized.** Each subsection below uses the same four-part sequence:
+
+1. **Linguistic / Mosiah analysis** — summary of the etymological, rhetorical, and Mosiah 4:8 material developed earlier in this document  
+2. **Bible Dictionary** — relevant teaching from the official study help  
+3. **Gospel Topics** — relevant teaching from the official overview (and, where noted, related Church topics)  
+4. **Alignment** — how the linguistic reading sits under Church teaching (never the reverse)
+
+Church sources remain the standard throughout. The sequence is only a reading aid.
 
 ### Core definition and scope
 
-**This note (linguistic / Mosiah focus).** *Salvation* spans rescue and deliverance—physical, national, or spiritual—and often the idea of being made whole or safe. Hebrew *yashaʿ* / *yəšûʿâ* (deliver, help, victory; freedom from constriction) and Greek *sōtēria* / *sōzō* (rescue, heal, preserve) support that breadth. In Mosiah 4:8 the term is bound to the exclusive *means* of the Atonement and to *conditions* for receiving and retaining it.
+**Linguistic / Mosiah analysis.** *Salvation* spans rescue and deliverance—physical, national, or spiritual—and often the idea of being made whole or safe. Hebrew *yashaʿ* / *yəšûʿâ* (deliver, help, victory; freedom from constriction) and Greek *sōtēria* / *sōzō* (rescue, heal, preserve) support that breadth. In Mosiah 4:8 the term is bound to the exclusive *means* of the Atonement and to *conditions* for receiving and retaining it.
 
 **Bible Dictionary.** Salvation is “to be saved from both physical and spiritual death.” All people will be saved from physical death by the grace of God through the death and Resurrection of Jesus Christ. Each individual can also be saved from spiritual death by the grace of God through faith in Jesus Christ, “manifested in a life of obedience to the laws and ordinances of the gospel and service to Christ.”
 
 **Gospel Topics.** In the doctrine of The Church of Jesus Christ of Latter-day Saints, “saved” and “salvation” have various meanings. The overview distinguishes, among others: salvation from physical death (resurrection for all through the Atonement and Resurrection of Jesus Christ—a free gift); salvation from sin (conditional on faith, repentance, baptism, receiving the Holy Ghost, and enduring faithfulness); being born again; salvation from ignorance of the restored gospel; salvation from the second death; and eternal life, or exaltation (the highest sense, requiring temple covenants and coming only after the Final Judgment). As used in Romans 10:9–10, the words can signify a covenant relationship with Jesus Christ that assures salvation from the eternal consequences of sin if the disciple is obedient.
 
-**Alignment.** Church teaching is the standard. The dual physical/spiritual frame and the centrality of Jesus Christ and His Atonement match the note’s emphasis on exclusive means. Ancient “rescue-to-wholeness” senses fit under that teaching; they do not replace it. Gospel Topics systematizes levels (general resurrection vs. conditional spiritual salvation vs. exaltation) more fully than a Mosiah 4:8 reading alone.
+**Alignment.** Church teaching is the standard. The dual physical/spiritual frame and the centrality of Jesus Christ and His Atonement match the linguistic emphasis on exclusive means. Ancient “rescue-to-wholeness” senses fit under that teaching; they do not replace it. Gospel Topics systematizes levels (general resurrection vs. conditional spiritual salvation vs. exaltation) more fully than a Mosiah 4:8 reading alone.
 
 ### Means, conditions, and process (Mosiah 4:8)
 
-**This note.** Mosiah 4:8 names the means (the Atonement), excludes every other salvation, and ties saving conditions to belief, repentance, humility, and doing what has been taught—then retention “from day to day,” including care for the poor.
+**Linguistic / Mosiah analysis.** Mosiah 4:8 names the means (the Atonement), excludes every other salvation, and ties saving conditions to belief, repentance, humility, and doing what has been taught—then retention “from day to day,” including care for the poor.
 
 **Bible Dictionary.** Faith is shown in obedience to laws and ordinances and in service to Christ; grace operates through Christ and calls for personal response.
 
 **Gospel Topics.** Spiritual salvation from sin is conditional: faith in Jesus Christ, repentance, baptism, gift of the Holy Ghost, and continuing faithfulness. Individuals cannot be saved *in* their sins; through the grace of God all can be saved *from* their sins as they repent and follow Jesus Christ (see 2 Nephi 25:23; Helaman 5:10–11). Rebirth and covenant (including Mosiah 5) are part of the same path. Eternal life/exaltation requires further covenants and faithfulness.
 
-**Alignment.** Mosiah 4:8 exemplifies conditional spiritual salvation: Atonement as sole means, conditions of trust and obedience, retentive faithfulness and service. Church sources place that pattern inside the plan of salvation and ordinances; the note’s stress on charity and humility illustrates the “life of… service” the Bible Dictionary names.
+**Alignment.** Mosiah 4:8 exemplifies conditional spiritual salvation: Atonement as sole means, conditions of trust and obedience, retentive faithfulness and service. Church sources place that pattern inside the plan of salvation and ordinances; stress on charity and humility illustrates the “life of… service” the Bible Dictionary names.
 
 ### Exclusivity and Christ-centeredness
 
-**This note.** Old Testament and Book of Mormon language stress God’s sole role as deliverer and “none other salvation save this.”
+**Linguistic / Mosiah analysis.** Old Testament and Book of Mormon language stress God’s sole role as deliverer and “none other salvation save this.”
 
-**Church sources.** Jesus Christ is the only way of salvation; the Atonement enables every sense of the word. Scriptural usage remains flexible (physical, spiritual, covenantal, eschatological) while remaining Christ-centered.
+**Bible Dictionary / Gospel Topics.** Jesus Christ is the only way of salvation; the Atonement enables every sense of the word. Scriptural usage remains flexible (physical, spiritual, covenantal, eschatological) while remaining Christ-centered.
 
 **Alignment.** Exclusivity through Christ is shared. Linguistic breadth and translation nuances (e.g. stronger “rescue” in some languages) help explain why scripture uses *salvation* in more than one sense—the same point Gospel Topics makes by listing multiple meanings.
 
 ### Assessment
 
 - **Church sources are authoritative** for doctrine, practice, and the ordered meanings of *salvation* and *exaltation*.
-- **This note adds** historical and linguistic context (English etymology, Hebrew/Greek roots, Mosiah 4 rhetoric, translation samples) that can deepen reading of the same scriptures the Church teaches from.
-- **No doctrinal conflict:** Mosiah 4:8 fits the Church’s account of conditional spiritual salvation under the Atonement; retention and service match obedience and covenant faithfulness. Where the note is reconstructive (ancient roots, speaker “voice”), confidence is moderate; where it restates Church teaching, the official entries control.
+- **The linguistic and Mosiah material adds** historical and lexical context (English etymology, Hebrew/Greek roots, Mosiah 4 rhetoric, translation samples) that can deepen reading of the same scriptures the Church teaches from.
+- **No doctrinal conflict:** Mosiah 4:8 fits the Church’s account of conditional spiritual salvation under the Atonement; retention and service match obedience and covenant faithfulness. Where the analysis is reconstructive (ancient roots, speaker “voice”), confidence is moderate; where it restates Church teaching, the official entries control.
 
 ---
 
