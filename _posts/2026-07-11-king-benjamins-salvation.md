@@ -1,5 +1,5 @@
 ---
-title: "Salvation: King Benjamin, Covenant, and the Word"
+title: "King Benjamin's Salvation"
 date: 2026-07-11
 excerpt: "What “salvation” means in English, in comparative religion, and—most carefully—in King Benjamin’s Mosiah 4:8: covenant, retention, and care for the poor."
 ---
