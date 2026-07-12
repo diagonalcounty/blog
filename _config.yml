@@ -6,14 +6,10 @@ baseurl: ""
 theme: minima
 show_excerpts: true
 
-minima:
-  social_links:
-    - platform: github
-      user_url: "https://github.com/diagonalcounty"
-
-header_pages: []
-
 author: diagonalcounty
+
+# Don't auto-link every page into the header nav
+header_pages: []
 
 exclude:
   - POST_TEMPLATE.txt
