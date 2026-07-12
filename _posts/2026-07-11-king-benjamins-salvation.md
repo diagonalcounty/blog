@@ -210,15 +210,56 @@ When translators leave Western European defaults, word choice highlights differe
 
 ---
 
+## Comparison with the Bible Dictionary and Gospel Topics
+
+Authoritative teaching on *salvation* for members of The Church of Jesus Christ of Latter-day Saints is set out in the [Bible Dictionary](https://www.churchofjesuschrist.org/study/scriptures/bd/salvation) entry “Salvation” and the [Gospel Topics](https://www.churchofjesuschrist.org/study/manual/gospel-topics/salvation) overview “Salvation,” with related treatments of the Atonement of Jesus Christ, the plan of salvation, and grace. Those sources govern doctrine. The linguistic and Mosiah-focused notes above are secondary: they may illuminate scriptural language but do not redefine Church teaching.
+
+### Core definition and scope
+
+**This note (linguistic / Mosiah focus).** *Salvation* spans rescue and deliverance—physical, national, or spiritual—and often the idea of being made whole or safe. Hebrew *yashaʿ* / *yəšûʿâ* (deliver, help, victory; freedom from constriction) and Greek *sōtēria* / *sōzō* (rescue, heal, preserve) support that breadth. In Mosiah 4:8 the term is bound to the exclusive *means* of the Atonement and to *conditions* for receiving and retaining it.
+
+**Bible Dictionary.** Salvation is “to be saved from both physical and spiritual death.” All people will be saved from physical death by the grace of God through the death and Resurrection of Jesus Christ. Each individual can also be saved from spiritual death by the grace of God through faith in Jesus Christ, “manifested in a life of obedience to the laws and ordinances of the gospel and service to Christ.”
+
+**Gospel Topics.** In the doctrine of The Church of Jesus Christ of Latter-day Saints, “saved” and “salvation” have various meanings. The overview distinguishes, among others: salvation from physical death (resurrection for all through the Atonement and Resurrection of Jesus Christ—a free gift); salvation from sin (conditional on faith, repentance, baptism, receiving the Holy Ghost, and enduring faithfulness); being born again; salvation from ignorance of the restored gospel; salvation from the second death; and eternal life, or exaltation (the highest sense, requiring temple covenants and coming only after the Final Judgment). As used in Romans 10:9–10, the words can signify a covenant relationship with Jesus Christ that assures salvation from the eternal consequences of sin if the disciple is obedient.
+
+**Alignment.** Church teaching is the standard. The dual physical/spiritual frame and the centrality of Jesus Christ and His Atonement match the note’s emphasis on exclusive means. Ancient “rescue-to-wholeness” senses fit under that teaching; they do not replace it. Gospel Topics systematizes levels (general resurrection vs. conditional spiritual salvation vs. exaltation) more fully than a Mosiah 4:8 reading alone.
+
+### Means, conditions, and process (Mosiah 4:8)
+
+**This note.** Mosiah 4:8 names the means (the Atonement), excludes every other salvation, and ties saving conditions to belief, repentance, humility, and doing what has been taught—then retention “from day to day,” including care for the poor.
+
+**Bible Dictionary.** Faith is shown in obedience to laws and ordinances and in service to Christ; grace operates through Christ and calls for personal response.
+
+**Gospel Topics.** Spiritual salvation from sin is conditional: faith in Jesus Christ, repentance, baptism, gift of the Holy Ghost, and continuing faithfulness. Individuals cannot be saved *in* their sins; through the grace of God all can be saved *from* their sins as they repent and follow Jesus Christ (see 2 Nephi 25:23; Helaman 5:10–11). Rebirth and covenant (including Mosiah 5) are part of the same path. Eternal life/exaltation requires further covenants and faithfulness.
+
+**Alignment.** Mosiah 4:8 exemplifies conditional spiritual salvation: Atonement as sole means, conditions of trust and obedience, retentive faithfulness and service. Church sources place that pattern inside the plan of salvation and ordinances; the note’s stress on charity and humility illustrates the “life of… service” the Bible Dictionary names.
+
+### Exclusivity and Christ-centeredness
+
+**This note.** Old Testament and Book of Mormon language stress God’s sole role as deliverer and “none other salvation save this.”
+
+**Church sources.** Jesus Christ is the only way of salvation; the Atonement enables every sense of the word. Scriptural usage remains flexible (physical, spiritual, covenantal, eschatological) while remaining Christ-centered.
+
+**Alignment.** Exclusivity through Christ is shared. Linguistic breadth and translation nuances (e.g. stronger “rescue” in some languages) help explain why scripture uses *salvation* in more than one sense—the same point Gospel Topics makes by listing multiple meanings.
+
+### Assessment
+
+- **Church sources are authoritative** for doctrine, practice, and the ordered meanings of *salvation* and *exaltation*.
+- **This note adds** historical and linguistic context (English etymology, Hebrew/Greek roots, Mosiah 4 rhetoric, translation samples) that can deepen reading of the same scriptures the Church teaches from.
+- **No doctrinal conflict:** Mosiah 4:8 fits the Church’s account of conditional spiritual salvation under the Atonement; retention and service match obedience and covenant faithfulness. Where the note is reconstructive (ancient roots, speaker “voice”), confidence is moderate; where it restates Church teaching, the official entries control.
+
+---
+
 ## Sources and method
 
-- **Scripture** — Standard text of Mosiah 2–5 (esp. 4:1–30, 5:7); cross-check wording on Church scriptures site for translations.
-- **Literary / LDS scholarship** — Welch and Ricks (eds.), *King Benjamin’s Speech: “That Ye May Learn Wisdom”* (structures, covenant themes, influence on later Nephite discourse). Royal Skousen’s Critical Text Project: transmission/variants more than idiolect. Broader rhetorical and some stylometric work on distinct “voices” in the Book of Mormon.
+- **Authoritative Church sources** — [Bible Dictionary, “Salvation”](https://www.churchofjesuschrist.org/study/scriptures/bd/salvation); [Gospel Topics, “Salvation”](https://www.churchofjesuschrist.org/study/manual/gospel-topics/salvation); related: Atonement of Jesus Christ, plan of salvation, grace.
+- **Scripture** — Standard text of Mosiah 2–5 (esp. 4:1–30, 5:7); cross-check wording on the Church’s scriptures site for translations.
+- **Literary scholarship** — Welch and Ricks (eds.), *King Benjamin’s Speech: “That Ye May Learn Wisdom”* (structures, covenant themes, influence on later Nephite discourse). Royal Skousen’s Critical Text Project: transmission/variants more than idiolect. Broader rhetorical and some stylometric work on distinct “voices” in the Book of Mormon.
 - **Lexicons** — Standard Biblical Hebrew entries (e.g. Strong’s and etymological discussions) for *yashaʿ*, *gaʾal*, *kaphar*, *pada*, *ḥesed*, *tzedaqah*, *pālat*; scope restricted to pre-~600 BC attestation where possible. Avoided post-exilic/Mishnaic and modern Israeli developments unless noted.
-- **Comparative / translation notes** — Sampled official BoM translations across major language families; nuances are lexical, not doctrinal.
+- **Comparative / translation notes** — Sampled official Book of Mormon translations across major language families; nuances are lexical, not doctrinal.
 - ***hesed*** — Russell M. Nelson, “[The Everlasting Covenant](https://www.churchofjesuschrist.org/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng),” *Liahona*, Oct. 2022 (spelling *hesed* חֶסֶד).
 
-**Confidence:** English rhetorical features of the speech are directly observable. Interpretive weight on “ancient” parallels, Hebraisms, and reconstructed Semitic roots is reconstructive and carries moderate confidence. Mainstream academic perspectives often attribute speaker differentiation to 19th-century authorial technique rather than ancient distinct sources—internal textual observations (what the narrative and phrasing allow) are distinguished here from historical-origin claims.
+**Confidence:** English rhetorical features of the speech are directly observable. Interpretive weight on “ancient” parallels, Hebraisms, and reconstructed Semitic roots is reconstructive and carries moderate confidence. Mainstream academic perspectives often attribute speaker differentiation to 19th-century authorial technique rather than ancient distinct sources—internal textual observations (what the narrative and phrasing allow) are distinguished here from historical-origin claims. Doctrine is taken from the official publications of The Church of Jesus Christ of Latter-day Saints.
 
 ---
 
