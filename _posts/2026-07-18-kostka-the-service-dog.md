@@ -11,8 +11,6 @@ People often ask whether Kostka has “service dog paperwork,” or whether a do
 
 This post is meant to do that explaining for me—and to introduce the dog who has been doing this work for several years.
 
-![VA service animal entry requirements sign]({{ '/assets/kostka-the-service-dog/VA-Service-Animal-Entry-Requirements-sign.jpg' | relative_url }})
-
 Official guidance: [Service Animals — ADA Requirements](https://www.ada.gov/resources/service-animals-2010-requirements/).
 
 ## What a service dog is (and is not)
