@@ -63,7 +63,7 @@ I feel an obligation to advocate for service animals and help people understand 
 
 ## What Kostka is trained to do
 
-Kostka is a **12.5-pound mutt**. He has been my service dog for several years.
+Kostka is a **12.5-pound mutt**. He is a maltese bichon shih tzu chihuahua. He has been my service dog for several years.
 
 He is trained (and practiced) to help with **anxiety and panic attacks** related to **PTSD**—specifically through **pressure and tactile support**, and through **interrupting** me when I am disappearing into my own head.
 
